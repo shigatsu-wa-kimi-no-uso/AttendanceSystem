@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AttendanceSystemUI": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
